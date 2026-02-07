@@ -1,4 +1,4 @@
-#PsyAssist  
+##PsyAssist  
 AI-Powered Psychology Assistant Chatbot
 
 ## About the Project
