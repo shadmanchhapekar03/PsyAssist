@@ -1,17 +1,28 @@
-# Environment variables
+# Environment & secrets
 .env
 .env.*
+Pinecone/
+*.json
 
-# Virtual environment
-venv/
+# Virtual environments
 myenv/
+venv/
 
 # Python cache
 __pycache__/
 *.pyc
 
-# VS Code
-.vscode/
+# Data & vector stores
+Data/
+data_pdfs/
+chroma_db/
+Chroma/
+md_files/
 
-service_account.json
-*.json
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS / editor
+.vscode/
+.DS_Store
