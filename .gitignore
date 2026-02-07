@@ -1,30 +1,20 @@
-# Environment & secrets
-.env
-.env.*
-Pinecone/
-*.json
-
-# Virtual environments
-myenv/
+# Environments
 venv/
+myenv/
+.env
 
-# Python cache
-__pycache__/
-*.pyc
-
-# Data & vector stores
+# Data & documents
 Data/
 data_pdfs/
-chroma_db/
-Chroma/
 md_files/
 
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb
+# Vector DBs
+chroma_db/
+Chroma/
 
-# OS / editor
-.vscode/
-.DS_Store
-
+# Secrets
 Pinecone/service_account.json
+
+# OS / Python
+__pycache__/
+*.sqlite3
