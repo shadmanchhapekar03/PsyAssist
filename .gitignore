@@ -1,0 +1,17 @@
+# Environment variables
+.env
+.env.*
+
+# Virtual environment
+venv/
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+service_account.json
+*.json
