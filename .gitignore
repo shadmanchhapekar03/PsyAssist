@@ -26,3 +26,5 @@ md_files/
 # OS / editor
 .vscode/
 .DS_Store
+
+Pinecone/service_account.json
