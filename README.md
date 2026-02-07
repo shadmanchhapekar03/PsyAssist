@@ -24,6 +24,17 @@ PsyAssist is not a replacement for professional therapy,but a supportive convers
 - Data Processing: PDF to Markdown ingestion  
 - Environment Management: `.env` variables  
 
+## Collaboration
+This project was developed as a collaborative team effort.  
+The core idea, architecture design, and primary development were done in collaboration, with contributions across planning, implementation, and refinement stages.
+
+## Contributions
+- Ideation and project planning
+- Backend architecture and workflow design
+- LLM integration and prompt structuring
+- Vector database setup and retrieval logic
+- Testing and optimization
+- 
 ## Project Architecture (High Level)
 1. User sends a message to the chatbot  
 2. Input is processed and routed through the conversation logic  
