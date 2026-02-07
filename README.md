@@ -1,8 +1,8 @@
-##PsyAssist  
+## PsyAssist  
 AI-Powered Psychology Assistant Chatbot
 
 ## About the Project
-Somy Ali is an AI-powered psychology assistant chatbot designed to provide empathetic, supportive, and context-aware conversations related to mental health and emotional well-being.  
+PsyAssist is an AI-powered psychology assistant chatbot designed to provide empathetic, supportive, and context-aware conversations related to mental health and emotional well-being.  
 
 The project focuses on exploring how Large Language Models (LLMs) can be combined with structured prompts and document-based knowledge to assist users with topics such as anxiety, stress, depression, trauma, and self-reflection—while maintaining ethical boundaries and privacy awareness.
 
